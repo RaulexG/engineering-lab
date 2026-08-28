@@ -1,1 +1,3 @@
-Version resuelta manualmentecambio local antes del push 
+Version resuelta manualmente
+cambio local antes del push 
+Cambio desde la interfaz web
