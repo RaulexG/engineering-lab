@@ -1,1 +1,1 @@
-Version resuelta manualmente
+Version resuelta manualmentecambio local antes del push 
